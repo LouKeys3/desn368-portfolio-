@@ -1,6 +1,6 @@
 # DESN 368 portfolio·louis
 
-**Live site:** `https://LouKeys3.github.io/YOUR-REPO-NAME/` (put your own address here once Pages is on)
+**Live site:** `https://LouKeys3.github.io/desn368-portfolio/ (put your own address here once Pages is on)
 
 This repository holds your homepage and every project it links to. CodePen takes a deployed Pen offline when a PRO plan ends, so anything your portfolio links to has to live here before the quarter ends.
 
